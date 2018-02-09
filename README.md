@@ -1,13 +1,13 @@
 ## TensorFlow学习总结
 
-* #### [总览](#overview)
-* #### [开始](#getstarted)
-* #### [进阶教程](#tutorial)
-* #### [移动端实例](#mobile)
-* #### [Keras API](#keras)
-* #### [Google Codelabs项目](#codelabs)
+* [总览](#overview)
+* [开始](#getstarted)
+* [进阶教程](#tutorial)
+* [移动端实例](#mobile)
+* [Keras API](#keras)
+* [Google Codelabs项目](#codelabs)
 
-#### <span id='overview'>总览</span>
+<span id='overview'>总览</span>
 
 该代码仓库主要记录个人觉得比较重要和有意思的项目。该仓库全部基于TensorFlow，大部分的代码来源于[TensorFlow官方网站](https://www.tensorflow.org/get_started/).
 具体的组织结构如下：<br/>
@@ -19,16 +19,12 @@
 5. _Keras API_：本部分会基于Keras库进行网络模型的构建，可以明显体会到[Keras](https://keras.io/)的便捷性。
 6. _Google Code Labs_：本部分会包含一些[Google Code Labs](https://codelabs.developers.google.com/)中关于TensoFlow的项目。
 
-#### <span id='getstarted'>开始</span>
+<sspan id="getstarted">开始</span>
 
+<span id="tutorial">进阶教程</span>
 
-#### <span id='getstarted'>进阶教程</span>
+<span id="mobile">移动端实践</span>
 
+<span id='keras'>Keras API</span>
 
-#### <span id='tutorial'>移动端实践</span>
-
-
-#### <span id='keras'>Keras API</span>
-
-
-#### <span id='codelabs'>Google Codelabs玩具项目</span>
+<span id='codelabs'>Google Codelabs玩具项目</span>
