@@ -5,7 +5,7 @@
 * [进阶教程](#进阶教程)
 * [移动端实例](#移动端实例)
 * [Keras API](#Keras API)
-* [Google Codelabs项目](#Google Codelabs项目)
+* [Google Codelabs项目](#Google Codelabs玩具项目)
 
 <span id='overview'>总览</span>
 
@@ -29,4 +29,4 @@
 
 #### Keras API
 
-#### Google Codelabs项目
+#### Google Codelabs玩具项目
